@@ -1,7 +1,7 @@
 # Machine_Learning_with_Python
 
-<p align="center">
-  <img width="300" src="https://images.youracclaim.com/size/340x340/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png">
+<p>
+  <img width="300" align="right" src="https://images.youracclaim.com/size/340x340/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png">
 </p>
 
 The badge earner has demonstrated a good understanding and application of machine learning (ML) including when to use different ML techniques such as regression, classification, clustering and recommender systems. The individual has acquired the skills to use different machine learning libraries in Python, mainly Scikit-learn and Scipy, to generate and apply different types of ML algorithms such as decision trees, logistic regression, k-means, KNN, DBSCCAN, SVM and hierarchical clustering.
